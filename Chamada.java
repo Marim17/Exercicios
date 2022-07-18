@@ -1,6 +1,6 @@
 package Exercicios;
 
-public class main {
+public class Chamada {
     public static void main(String[] args) {
         // Mensagem
         System.out.println("Exercicio mensagem");

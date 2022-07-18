@@ -1,4 +1,4 @@
-package Exercicio;
+package Exercicios;
 
 public class mensagem {
     public static void obterMensagem(int hora) {
